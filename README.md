@@ -7,7 +7,7 @@
 * **Sección:** SCV2
 * **Periodo:** 2026-C1
 * **Docente:** Víctor Corrales Thames
-* **Estudiante:** [Tu Nombre Completo]
+* **Estudiante:** Julian Navarro Ulloa
 
 
 Este repositorio contiene la primera parte del Portafolio de Evidencias. El proyecto modela un sistema de apartados presencial para una tienda de videojuegos física, la cual cuenta con un inventario estrictamente limitado a 50 copias de un juego de edición exclusiva. El sistema garantiza que el límite no sea superado y exige validaciones de presencia física, aplicando los principios fundamentales de la Programación Orientada a Objetos (POO).
